@@ -530,7 +530,7 @@ def help():
     stdout.write("             "+Fore.BLUE                    +"╠═════════════════════════════════════════════════════╣\n")
     stdout.write("             "+Fore.BLUE                    +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Thanks for using KARMA.                "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.BLUE                    +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"YOU♥     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Plz star project :)                    "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.BLUE                    +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"Tdd   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/HyukIsBack/KARMA-DDoS       "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.BLUE                    +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"Tdd   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/tdd2003/karma-v2               "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.BLUE                    +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
@@ -602,12 +602,12 @@ def title():
     stdout.write("                                 "+Fore.BLUE           +"╦╔═╔═╗╦═╗╔╦╗╔═╗                 \n")
     stdout.write("                                 "+Fore.BLUE           +"╠╩╗╠═╣╠╦╝║║║╠═╣                 \n")
     stdout.write("                                 "+Fore.BLUE           +"╩ ╩╩ ╩╩╚═╩ ╩╩ ╩     (DDoS Update By TranDucDuy)          \n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.BLUE            +"        Welcome To The Main Screen Of GokuDdos  "+Fore.BLUE  +"       ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.BLUE            +"          Type [help] to see the Commands    "+Fore.BLUE +"       ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.BLUE            +"         Contact Dev - Tele: @Tdd2003   "+Fore.BLUE +"        ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"╚═════════════════════════════════════════════════════╝\n")
+    stdout.write("             "+Fore.BLUE        +"        ══╦═════════════════════════════════╦══\n")
+    stdout.write("             "+Fore.BLUR        +"╔═════════╩═════════════════════════════════╩═════════╗\n")
+    stdout.write("             "+Fore.BLUE        +"║ "+Fore.BLUE            +"        Welcome To The Main Screen Of GokuDdos  "+Fore.BLUE  +"       ║\n")
+    stdout.write("             "+Fore.RED         +"║ "+Fore.BLUE            +"          Type [help] to see the Commands    "+Fore.BLUE +"       ║\n")
+    stdout.write("             "+Fore.RED         +"║ "+Fore.BLUE            +"         Contact Dev - Tele: @Tdd2003   "+Fore.BLUE +"        ║\n")
+    stdout.write("             "+Fore.RED         +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
 def command():
