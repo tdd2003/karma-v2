@@ -603,7 +603,7 @@ def title():
     stdout.write("                                 "+Fore.BLUE           +"╠╩╗╠═╣╠╦╝║║║╠═╣                 \n")
     stdout.write("                                 "+Fore.BLUE           +"╩ ╩╩ ╩╩╚═╩ ╩╩ ╩     (DDoS Update By TranDucDuy)          \n")
     stdout.write("             "+Fore.BLUE        +"        ══╦═════════════════════════════════╦══\n")
-    stdout.write("             "+Fore.BLUR        +"╔═════════╩═════════════════════════════════╩═════════╗\n")
+    stdout.write("             "+Fore.BLUE        +"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.BLUE        +"║ "+Fore.BLUE            +"        Welcome To The Main Screen Of GokuDdos  "+Fore.BLUE  +"       ║\n")
     stdout.write("             "+Fore.RED         +"║ "+Fore.BLUE            +"          Type [help] to see the Commands    "+Fore.BLUE +"       ║\n")
     stdout.write("             "+Fore.RED         +"║ "+Fore.BLUE            +"         Contact Dev - Tele: @Tdd2003   "+Fore.BLUE +"        ║\n")
